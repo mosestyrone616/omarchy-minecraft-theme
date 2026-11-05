@@ -1,10 +1,10 @@
 Minecraft theme for Omarchy. Made with Aether from images I screenshotted in game. Enjoy!
 
 ADD TO OMARCHY - From Terminal: 
-https://github.com/mosestyrone616/omarchy-minecraft-theme.git
+omarchy theme install https://github.com/mosestyrone616/omarchy-minecraft-theme.git
 
 ADD TO OMARCHY - From Omarchy Theme Menu:
-omarchy theme install https://github.com/mosestyrone616/omarchy-minecraft-theme
+https://github.com/mosestyrone616/omarchy-minecraft-theme.git
 
 SCREENSHOTS:
 <img width="1920" height="1080" alt="screenshot-2026-11-04_19-55-19" src="https://github.com/user-attachments/assets/62dc4a04-3c5a-442c-b173-de84122536c9" />
